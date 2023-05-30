@@ -1,0 +1,37 @@
+body {
+  font-family: Arial;
+  background-color: darkgrey;
+}
+
+h1 {
+  color: white;
+  font-size: 23px;
+  text-align: center;
+}
+p {
+  color: orange;
+  font-size: 16px;
+  background-color: #246aae;
+  text-align: center;
+}
+
+.title {
+  color: orange;
+}
+
+table, th, td {
+  border: 2px solid white;
+  text-align: center;
+  color: orange;
+}
+
+img {
+    max-width:200px;
+    float: left;
+    margin-right: 15px;
+}
+
+h3 {
+  color: white;
+  font-size: 16px;
+}
