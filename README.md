@@ -1,3 +1,0 @@
-# Space_Doggos
-Continued Learning....
-https://amsanjeev.me/Space_Doggos/
